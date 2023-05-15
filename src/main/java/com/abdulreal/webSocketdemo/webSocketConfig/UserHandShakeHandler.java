@@ -1,4 +1,4 @@
-//This code is not important in the context of this application
+//This code is important in the context of this application
 
 package com.abdulreal.webSocketdemo.webSocketConfig;
 
