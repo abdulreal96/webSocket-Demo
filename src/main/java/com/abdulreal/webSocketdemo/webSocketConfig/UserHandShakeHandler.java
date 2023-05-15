@@ -1,3 +1,5 @@
+//This code is not important in the context of this application
+
 package com.abdulreal.webSocketdemo.webSocketConfig;
 
 import com.sun.security.auth.UserPrincipal;
